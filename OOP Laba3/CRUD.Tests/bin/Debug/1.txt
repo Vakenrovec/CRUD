@@ -1,0 +1,63 @@
+{
+  "$type": "System.Collections.Generic.List`1[[CRUD.BaseObject, WindowsFormsApp1]], mscorlib",
+  "$values": [
+    {
+      "$id": "1",
+      "$type": "CRUD.Flattop, WindowsFormsApp1",
+      "AmountRockets": 156,
+      "AmountSoldiers": 800,
+      "WarPlanes": {
+        "$type": "System.Collections.Generic.List`1[[CRUD.WarPlane, WindowsFormsApp1]], mscorlib",
+        "$values": [
+          {
+            "$id": "2",
+            "$type": "CRUD.WarPlane, WindowsFormsApp1",
+            "FlightAltitude": 6,
+            "flattop": {
+              "$ref": "1"
+            },
+            "Pilot": {
+              "$id": "3",
+              "$type": "CRUD.Pilot, WindowsFormsApp1",
+              "Experience": 12,
+              "SkillLevel": 2,
+              "Height": 190,
+              "Weight": 86,
+              "BirthYear": 1987,
+              "Name": "Aleksey",
+              "Sourname": "Meresiev"
+            },
+            "Speed": 380,
+            "engine": {
+              "$id": "4",
+              "$type": "CRUD.Engine, WindowsFormsApp1",
+              "Fuel": 0,
+              "Power": 8500
+            },
+            "ReleaseYear": 2010,
+            "Model": "warplane",
+            "Identificator": "aw-5.2"
+          }
+        ]
+      },
+      "Ocean": 0,
+      "HomePort": "123w",
+      "Speed": 20,
+      "engine": {
+        "$id": "5",
+        "$type": "CRUD.Engine, WindowsFormsApp1",
+        "Fuel": 0,
+        "Power": 8000
+      },
+      "ReleaseYear": 2000,
+      "Model": "flattop",
+      "Identificator": "zx-89"
+    },
+    {
+      "$ref": "2"
+    },
+    {
+      "$ref": "3"
+    }
+  ]
+}
