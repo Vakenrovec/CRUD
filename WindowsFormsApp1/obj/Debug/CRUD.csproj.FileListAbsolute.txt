@@ -1,0 +1,41 @@
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\CRUD.FormMain.resources
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.CopyComplete
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\CRUD.FormMain.resources
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\56\Desktop\лаба3\WindowsFormsApp1\obj\Debug\CRUD.csproj.CopyComplete
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\CRUD.FormMain.resources
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\CRUD.csproj.CopyComplete
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\PluginInterface.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\WindowsFormsApp1\bin\Debug\PluginInterface.pdb

@@ -1,0 +1,6 @@
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\bin\Debug\PluginInterface.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\obj\Debug\CodingPluginInterface.csprojAssemblyReference.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\obj\Debug\CodingPluginInterface.csproj.CoreCompileInputs.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\obj\Debug\PluginInterface.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\PluginInterface\obj\Debug\PluginInterface.pdb

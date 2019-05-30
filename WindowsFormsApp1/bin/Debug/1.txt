@@ -1,0 +1,9 @@
+CRUD.Flattop{156 800 123w zx-89 flattop Pacific 2000 20 CRUD.Engine{Petrol 8000 }System.Collections.Generic.List`1[CRUD.WarPlane]{2 3 }}
+CRUD.Flattop{500 1500 ww.2 cv-1 flattop Indian 2010 15 CRUD.Engine{Diesel 12000 }System.Collections.Generic.List`1[CRUD.WarPlane]{4 }}
+CRUD.WarPlane{5 aw-2 warplane 1985 300 CRUD.Engine{Parafin 7000 }CRUD.Flattop{0 }CRUD.Pilot{5 }}
+CRUD.WarPlane{6 aw-5.2 warplane 2010 380 CRUD.Engine{Petrol 8500 }CRUD.Flattop{0 }CRUD.Pilot{6 }}
+CRUD.WarPlane{3 qw-5.5 warplane 2015 200 CRUD.Engine{Parafin 4500 }CRUD.Flattop{1 }{}}
+CRUD.Pilot{1987 12 190 Aleksey Level_3 Meresiev 86 }
+CRUD.Pilot{1981 17 195 Boris Level_Sniper Abramov 82 }
+CRUD.Pilot{1980 18 199 Sergey Level_Sniper Agapov 88 }
+CRUD.Pilot{1985 15 185 Yourii Level_3 Antipov 85 }

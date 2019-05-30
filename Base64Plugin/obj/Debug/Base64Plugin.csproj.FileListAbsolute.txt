@@ -1,0 +1,9 @@
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\bin\Debug\Base64Plugin.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\bin\Debug\Base64Plugin.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\bin\Debug\PluginInterface.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\bin\Debug\PluginInterface.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\obj\Debug\Base64Plugin.csproj.CoreCompileInputs.cache
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\obj\Debug\Base64Plugin.csproj.CopyComplete
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\obj\Debug\Base64Plugin.dll
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\obj\Debug\Base64Plugin.pdb
+C:\BSUIR\4 сем\ООТПиСП\лабы\лаба4\Base64Plugin\obj\Debug\Base64Plugin.csprojAssemblyReference.cache
